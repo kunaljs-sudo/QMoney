@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.crio.warmup.stock.PortfolioManagerApplicationTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-03-17T18:43:25" hostname="kj" time="2.722">
+  <properties/>
+  <testcase name="testDebugValues()" classname="com.crio.warmup.stock.PortfolioManagerApplicationTest" time="0.0"/>
+  <testcase name="testCalculateAnnualizedReturnGoogl()" classname="com.crio.warmup.stock.PortfolioManagerApplicationTest" time="0.001"/>
+  <testcase name="testCalculateAnnualizedReturn()" classname="com.crio.warmup.stock.PortfolioManagerApplicationTest" time="0.0"/>
+  <testcase name="mainReadQuotes()" classname="com.crio.warmup.stock.PortfolioManagerApplicationTest" time="1.572"/>
+  <testcase name="testAllDebugValues()" classname="com.crio.warmup.stock.PortfolioManagerApplicationTest" time="0.0"/>
+  <testcase name="mainCalculateAnnualReturn()" classname="com.crio.warmup.stock.PortfolioManagerApplicationTest" time="1.145"/>
+  <testcase name="mainReadFile()" classname="com.crio.warmup.stock.PortfolioManagerApplicationTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

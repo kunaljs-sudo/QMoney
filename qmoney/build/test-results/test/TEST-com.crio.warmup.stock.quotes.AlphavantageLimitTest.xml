@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.crio.warmup.stock.quotes.AlphavantageLimitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-17T18:43:38" hostname="kj" time="0.016">
+  <properties/>
+  <testcase name="getStockQuoteSingle()" classname="com.crio.warmup.stock.quotes.AlphavantageLimitTest" time="0.016"/>
+  <system-out><![CDATA[{"Information": "The **demo** API key is for demo purposes only. Please claim your free API key at (https://www.alphavantage.co/support/#api-key) to explore our full API offerings. It takes fewer than 20 seconds, and we are committed to making it free forever."}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

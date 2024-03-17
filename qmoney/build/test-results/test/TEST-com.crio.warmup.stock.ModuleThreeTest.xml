@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.crio.warmup.stock.ModuleThreeTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-03-17T18:43:12" hostname="kj" time="5.721">
+  <properties/>
+  <testcase name="mainCalculateReturnsOldTrades()" classname="com.crio.warmup.stock.ModuleThreeTest" time="2.985"/>
+  <testcase name="mainCalculateReturnsEdgeCase()" classname="com.crio.warmup.stock.ModuleThreeTest" time="0.001"/>
+  <testcase name="mainCalculateReturns()" classname="com.crio.warmup.stock.ModuleThreeTest" time="1.266"/>
+  <testcase name="mainCalculateReturnsVaryingDateRanges()" classname="com.crio.warmup.stock.ModuleThreeTest" time="1.119"/>
+  <testcase name="mainCalculateReturnsInvalidStocks()" classname="com.crio.warmup.stock.ModuleThreeTest" time="0.348"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.crio.warmup.stock.ModuleOneTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-03-17T18:43:09" hostname="kj" time="0.51">
+  <properties/>
+  <testcase name="mainReadFileEdgecase()" classname="com.crio.warmup.stock.ModuleOneTest" time="0.504"/>
+  <testcase name="mainReadFile()" classname="com.crio.warmup.stock.ModuleOneTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

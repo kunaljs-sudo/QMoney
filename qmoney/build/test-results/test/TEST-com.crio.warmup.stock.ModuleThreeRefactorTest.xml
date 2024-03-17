@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.crio.warmup.stock.ModuleThreeRefactorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-03-17T18:43:10" hostname="kj" time="2.194">
+  <properties/>
+  <testcase name="fetchCandles()" classname="com.crio.warmup.stock.ModuleThreeRefactorTest" time="2.188"/>
+  <testcase name="getClosingPriceOnEndDate()" classname="com.crio.warmup.stock.ModuleThreeRefactorTest" time="0.004"/>
+  <testcase name="getOpeningPriceOnStartDate()" classname="com.crio.warmup.stock.ModuleThreeRefactorTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

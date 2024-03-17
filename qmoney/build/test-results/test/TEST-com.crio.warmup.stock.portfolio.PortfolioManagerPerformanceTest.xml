@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.crio.warmup.stock.portfolio.PortfolioManagerPerformanceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-03-17T18:43:28" hostname="kj" time="10.049">
+  <properties/>
+  <testcase name="calculateExtrapolatedAnnualizedReturn()" classname="com.crio.warmup.stock.portfolio.PortfolioManagerPerformanceTest" time="5.043"/>
+  <testcase name="calculateExtrapolatedAnnualizedReturnWithException()" classname="com.crio.warmup.stock.portfolio.PortfolioManagerPerformanceTest" time="5.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

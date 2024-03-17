@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.crio.warmup.stock.ModuleTwoTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-03-17T18:43:18" hostname="kj" time="7.48">
+  <properties/>
+  <testcase name="mainReadQuotesInvalidStocks()" classname="com.crio.warmup.stock.ModuleTwoTest" time="0.436"/>
+  <testcase name="mainReadQuotes()" classname="com.crio.warmup.stock.ModuleTwoTest" time="1.129"/>
+  <testcase name="mainReadQuotesOldTrades()" classname="com.crio.warmup.stock.ModuleTwoTest" time="4.538"/>
+  <testcase name="mainReadQuotesInvalidDates()" classname="com.crio.warmup.stock.ModuleTwoTest" time="1.373"/>
+  <testcase name="mainReadQuotesEdgeCase()" classname="com.crio.warmup.stock.ModuleTwoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.crio.warmup.stock.quotes.TiingoServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-17T18:43:38" hostname="kj" time="0.013">
+  <properties/>
+  <testcase name="getStockQuoteSingle()" classname="com.crio.warmup.stock.quotes.TiingoServiceTest" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
